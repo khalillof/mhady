@@ -1,0 +1,17 @@
+#build/**/*
+#build
+
+node_modules/**/*
+node_modules
+.env
+client/.env
+src/**/*
+src
+.git/**/*
+.git
+views/**/*
+views
+
+admin_data.txt
+tsconfig.json
+README.md
